@@ -3,7 +3,7 @@
 
 This project uses a Large Language Model (LLM) to rename files in a specified folder based on their content. The LLM model generates a descriptive and unique name for each file and assigns a category to it. The file is then renamed with the new name and category.
 
-![Logo](https://github.com/user-attachments/assets/0e1f273c-141f-4d46-9a6d-12f3525ee43b)
+![Logo](https://github.com/user-attachments/assets/6badd17b-ae47-4f4b-aa10-1014709793b0)
 
 
 ## Functionality
