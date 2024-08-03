@@ -1,0 +1,11 @@
+langchain
+langchain_community
+pdfminer.six
+ebooklib
+ollama
+python-docx
+textract
+pandas
+openpyxl
+python-pptx
+python-dotenv
